@@ -21,4 +21,6 @@ Example :
     Input : "(([]" => Output : FALSE
     Input : "({)}" => Output : FALSE
 
+-A T Game, you can use your arrow button to move up, right, left, and down. Press Esc to exit the game
+
 -and, a triangle of headache, that include uppercase alphabet, lowercase alphabet, and number.
