@@ -17,8 +17,8 @@ Here you can find a program for :
 
 Example : 
 
-    Input : ({}) => Output : TRUE
-    Input : (([] => Output : FALSE
-    Input : ({)} => Output : FALSE
+    Input : "({})" => Output : TRUE
+    Input : "(([]" => Output : FALSE
+    Input : "({)}" => Output : FALSE
 
 -and, a triangle of headache, that include uppercase alphabet, lowercase alphabet, and number.
