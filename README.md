@@ -1,5 +1,5 @@
 # Random-Programming
-Such a random code
+Such a random code from C++ and C.
 
 Here you can find a program for :
 
