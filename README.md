@@ -13,4 +13,12 @@ Here you can find a program for :
 
 -D'Grocery, a simple application of online shop
 
+-Great Parentheses Checker, a program to check an input of user from "(" , "{" , "[" , ")" , "}" , "]". If the parentheses in a correct form, the program return "TRUE", if not, it return "FALSE"
+
+Example : 
+
+    Input : ({}) => Output : TRUE
+    Input : (([] => Output : FALSE
+    Input : ({)} => Output : FALSE
+
 -and, a triangle of headache, that include uppercase alphabet, lowercase alphabet, and number.
